@@ -1,3 +1,5 @@
-### Hi there 👋
+My App: 
 
-My name is Drakeet Xu, the Android developer of [Pure Writer](https://play.google.com/store/apps/details?id=com.drakeet.purewriter).  
+* [Pure Writer](https://play.google.com/store/apps/details?id=com.drakeet.purewriter)
+
+<a href='https://play.google.com/store/apps/details?id=com.drakeet.purewriter&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width=200 height=77/></a>

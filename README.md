@@ -1,8 +1,9 @@
 My Apps:
 
-Pure Writer:
+Pure Writer: http://writer.drakeet.com
 
-<a href='https://play.google.com/store/apps/details?id=com.drakeet.purewriter'><img alt='Get my App Pure Writer on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width=200 height=77/></a>
+> A fast plain text editor you can trust, with History, cloud sync and backups, layers of protection against losing your work, and many thoughtful writing aids. For Android, iPhone, and iPad.
+
 
 OCAT: https://ocat.app
 
